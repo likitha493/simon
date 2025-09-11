@@ -83,6 +83,8 @@
 //     userSeq=[];
 //     level=0;
 // }
+
+
 let gameSeq = [];
 let userSeq = [];
 let btns = ["yellow", "red", "purple", "green"];
